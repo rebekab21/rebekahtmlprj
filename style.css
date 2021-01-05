@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+ul{
+
+    display: flex;
+    background-color:black;
+    padding: 10px;
+height: 25px;
+opacity: 0.9;
+
+    
+}
+li{
+    list-style-type: none;
+    margin-left: 230px;
+    font-size: larger;
+    
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+    
+}
+
+
+a:hover{
+    text-decoration: underline;
+}
+.active{
+    background-color:lightcoral;
+    padding: 14px;
+}
